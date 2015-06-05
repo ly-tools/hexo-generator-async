@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "hexo-pagination": "0.0.2",
-    "object-assign": "^2.0.0"
+    "json-stringify-safe": "^5.0.1",
+    "lodash": "^3.9.3"
   }
 }
